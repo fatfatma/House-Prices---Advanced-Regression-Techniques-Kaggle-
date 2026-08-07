@@ -91,6 +91,6 @@ python notebooks/notebooks/04_edaWithStacking.py
 - **Ensemble/stacking'de çeşitlilik, model sayısından daha önemli**: Ridge (doğrusal) + XGBoost (ağaç tabanlı) kombinasyonu, benzer mantıkla çalışan Gradient Boosting'i de ekleyen kombinasyonlardan daha iyi performans gösterdi.
 - **Cross-validation skoru ile Kaggle Public skoru arasında sistematik bir fark** gözlemlendi (~0.01-0.02), bu da public leaderboard'un test setinin yalnızca bir alt kümesini yansıttığının ve tek bir validation ölçümüne aşırı güvenilmemesi gerektiğinin bir hatırlatıcısıdır.
 
-## Veri Seti Hakkında
+** Veri Seti Hk. ** 
+https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/data 
 
-[Ames Housing veri seti](https://jse.amstat.org/v19n3/decock.pdf), Dean De Cock tarafından veri bilimi eğitimi amacıyla derlenmiştir.
